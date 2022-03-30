@@ -35,6 +35,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app!
+- [x] Stopping the game middway saves your progress, including errors made.
 
 ## Video Walkthrough (GIF)
 
